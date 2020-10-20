@@ -4,13 +4,14 @@ List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
 
 ### Graph Clustering
 
-1. **Attributed Graph Clustering: A Deep Attentional Embedding Approach.** IJCAI 2019. [paper](https://arxiv.org/pdf/1906.06532.pdf)
+**Attributed Graph Clustering: A Deep Attentional Embedding Approach.** IJCAI 2019. [paper](https://arxiv.org/pdf/1906.06532.pdf)
 
-    *Chun Wang, Shirui Pan, Ruiqi Hu, Guodong Long, Jing Jiang, Chengqi Zhang.*
+   *Chun Wang, Shirui Pan, Ruiqi Hu, Guodong Long, Jing Jiang, Chengqi Zhang.*
     
-2. **Attributed Graph Clustering via Adaptive Graph Convolution.** IJCAI 2019. [paper](https://arxiv.org/pdf/1906.01210.pdf)
 
-    *Xiaotong Zhang, Han Liu, Qimai Li, Xiao-Ming Wu.*
+
+    
+    
     
 ### Graph Classification
 
