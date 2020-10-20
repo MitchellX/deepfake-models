@@ -2,9 +2,18 @@
 List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
 
 
-### Graph Clustering
+### Deepfakes_faceswap
 
-- **Attributed Graph Clustering: A Deep Attentional Embedding Approach.** IJCAI 2019. [paper](https://arxiv.org/pdf/1906.06532.pdf)
+- **FaceSwap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.** [code](https://github.com/deepfakes/faceswap)
+
+     
+### MarekKowalski-FaceSwap
+
+- **FaceSwap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.** [code](https://github.com/MarekKowalski/FaceSwap) [homepage](http://home.elka.pw.edu.pl/~mkowals6/doku.php)
+     
+### MarekKowalski-FaceSwap
+
+- **FaceSwap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.** IJCAI 2019. [paper](https://arxiv.org/pdf/1906.06532.pdf)
 
      *Chun Wang, Shirui Pan, Ruiqi Hu, Guodong Long, Jing Jiang, Chengqi Zhang.*
     
