@@ -4,18 +4,18 @@ List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
 
 ### [Deepfakes_faceswap](#deepfakes)
 
-- **FaceSwap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.** [[code]](https://github.com/deepfakes/faceswap) | [forum](https://forum.faceswap.dev/)
+- **FaceSwap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.** [[code]](https://github.com/deepfakes/faceswap) | [[forum]](https://forum.faceswap.dev/)
 
      
 ### [FaceSwap-MarekKowalski](#faceswap)
 
-- **FaceSwap is an app that have originally created as an exercise for students in "Mathematics in Multimedia".** [code](https://github.com/MarekKowalski/FaceSwap) | [homepage](http://home.elka.pw.edu.pl/~mkowals6/doku.php)
+- **FaceSwap is an app that have originally created as an exercise for students in "Mathematics in Multimedia".** [[code]](https://github.com/MarekKowalski/FaceSwap) | [[homepage]](http://home.elka.pw.edu.pl/~mkowals6/doku.php)
      
-### MarekKowalski-FaceSwap
+### [FaceShifter](#faceshifter)
 
-- **FaceSwap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.** IJCAI 2019. [paper](https://arxiv.org/pdf/1906.06532.pdf)
+- **FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping.** CVPR 2020. [paper](https://arxiv.org/pdf/1912.13457.pdf)
 
-     *Chun Wang, Shirui Pan, Ruiqi Hu, Guodong Long, Jing Jiang, Chengqi Zhang.*
+     *Lingzhi Li, Jianmin Bao, Hao Yang, Dong Chen, Fang Wen.*
     
 
 
