@@ -4,12 +4,12 @@ List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
 
 ### Deepfakes_faceswap
 
-- **FaceSwap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.** [code](https://github.com/deepfakes/faceswap)
+- **FaceSwap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.** [code](https://github.com/deepfakes/faceswap) | [forum](https://forum.faceswap.dev/)
 
      
-### MarekKowalski-FaceSwap
+### FaceSwap-MarekKowalski
 
-- **FaceSwap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.** [code](https://github.com/MarekKowalski/FaceSwap) | [homepage](http://home.elka.pw.edu.pl/~mkowals6/doku.php)
+- **FaceSwap is an app that have originally created as an exercise for students in "Mathematics in Multimedia".** [code](https://github.com/MarekKowalski/FaceSwap) | [homepage](http://home.elka.pw.edu.pl/~mkowals6/doku.php)
      
 ### MarekKowalski-FaceSwap
 
