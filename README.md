@@ -4,16 +4,16 @@ List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
 
 ### [Deepfakes_faceswap](#deepfakes)
 
-- **Deepfake is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.** [[code]](https://github.com/deepfakes/faceswap) | [[forum]](https://forum.faceswap.dev/)
+- **Deepfake is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.**  [[code]](https://github.com/deepfakes/faceswap) | [[forum]](https://forum.faceswap.dev/)
 
      
 ### [FaceSwap-MarekKowalski](#faceswap)
 
-- **FaceSwap is an app that have originally created as an exercise for students in "Mathematics in Multimedia".** [[code]](https://github.com/MarekKowalski/FaceSwap) | [[homepage]](http://home.elka.pw.edu.pl/~mkowals6/doku.php)
+- **FaceSwap is an app that have originally created as an exercise for students in "Mathematics in Multimedia".**  [[code]](https://github.com/MarekKowalski/FaceSwap) | [[homepage]](http://home.elka.pw.edu.pl/~mkowals6/doku.php)
      
 ### [FaceShifter](#faceshifter)
 
-- **FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping.** *CVPR 2020* [[paper]](https://arxiv.org/pdf/1912.13457.pdf) | [[homepage]](https://lingzhili.com/)
+- **FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping.**  *CVPR 2020*  [[paper]](https://arxiv.org/pdf/1912.13457.pdf) | [[homepage]](https://lingzhili.com/)
 
      *Lingzhi Li, Jianmin Bao, Hao Yang, Dong Chen, Fang Wen.*
      
@@ -24,7 +24,7 @@ List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
      
 ### [Nirkin et al.](#Nirkin)
 
-- **On face segmentation, face swapping, and face perception..** *FG 2018* [[paper]](https://arxiv.org/pdf/1912.13457.pdf) | [[homepage]](https://lingzhili.com/)
+- **On face segmentation, face swapping, and face perception..**  *F&G 2018* [[paper]](https://arxiv.org/pdf/1912.13457.pdf) | [[homepage]](https://lingzhili.com/)
 
      *Yuval Nirkin, Iacopo Masi, Anh Tran Tuan, Tal Hassner, and Gerard Medioni.*
      
