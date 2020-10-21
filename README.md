@@ -10,6 +10,11 @@ List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
 ### [FaceSwap-MarekKowalski](#faceswap)
 
 - **FaceSwap is an app that have originally created as an exercise for students in "Mathematics in Multimedia".**  [[code]](https://github.com/MarekKowalski/FaceSwap) | [[homepage]](http://home.elka.pw.edu.pl/~mkowals6/doku.php)
+
+    It uses face alignment, Gauss Newton optimization and image blending to swap the face of a person seen by the camera with a face of a person in a provided image.
+
+
+       
      
 ### [FaceShifter](#faceshifter)
 
