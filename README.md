@@ -1,5 +1,5 @@
 # deepfake-models
-List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
+List some popular deepfake models e.g. DeepFake, FaceSwap, IPGAN, FaceShifter, Nirkin et al, FSGAN, etc.
 
 
 ### [Deepfakes_faceswap](#deepfakes)
@@ -15,6 +15,16 @@ List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
 
 
        
+       
+
+### [IPGAN](#IPGAN)
+
+- **Towards Open-Set Identity Preserving Face Synthesis.** *CVPR 2018* [[paper]](https://jianminbao.github.io/IP-GAN/IP-GAN.pdf) | [[homepage]](https://jianminbao.github.io/)
+
+     *Jianmin Bao, Dong Chen, Fang Wen, Houqiang Li, and Gang Hua.*
+     
+     propose an Open-Set Identity Preserving Generative Adversarial Network framework for disentangling the identity and attributes of faces, synthesizing faces from the recombined identity and attributes.
+     
      
 ### [FaceShifter](#faceshifter)
 
@@ -25,6 +35,8 @@ List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
      Faceshifter is a novel two-stage framework for high fidelity and occlusion aware face-swapping. It's able to generate high fidelity identity preserving face swap results and, in comparison to previous methods, deal with facial occlusions using a second synthesis stage consisting of a Heuristic Error Acknowledging Refinement Network (HEAR-Net). 
      - in the first stage, generate the swapped face in high-fidelity by exploiting and integrating the target attributes thoroughly and adaptively.
      - in the second stage, propose a novel Heuristic Error Acknowledging Refinement Network (HEAR-Net) to address the challenging facial occlusions.
+
+
      
      
 ### [FaceSwap-Nirkin et al.](#Nirkin)
@@ -45,14 +57,3 @@ List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
      
      Unlike previous work, FSGAN is subject agnostic and can be applied to pairs of faces without requiring training on those faces.
      
-### [IPGAN](#IPGAN)
-
-- **Towards Open-Set Identity Preserving Face Synthesis.** *CVPR 2018* [[paper]](https://jianminbao.github.io/IP-GAN/IP-GAN.pdf) | [[homepage]](https://jianminbao.github.io/)
-
-     *Jianmin Bao, Dong Chen, Fang Wen, Houqiang Li, and Gang Hua.*
-     
-     propose an Open-Set Identity Preserving Generative Adversarial Network framework for disentangling the identity and attributes of faces, synthesizing faces from the recombined identity and attributes.
-
-
-    
-    
