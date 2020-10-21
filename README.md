@@ -17,7 +17,7 @@ List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
 
      *Lingzhi Li, Jianmin Bao, Hao Yang, Dong Chen, Fang Wen.*
      
-     Faceshifter is able to generate high fidelity identity preserving face swap results and, in comparison to our previous methods, deal with facial occlusions using a second synthesis stage consisting of a Heuristic Error Acknowledging Refinement Network (HEAR-Net). 
+     Faceshifter is able to generate high fidelity identity preserving face swap results and, in comparison to previous methods, deal with facial occlusions using a second synthesis stage consisting of a Heuristic Error Acknowledging Refinement Network (HEAR-Net). 
      
      
 ### [Nirkin et al.](#Nirkin)
@@ -28,7 +28,7 @@ List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
      
      - Instead of tailoring systems for face segmentation, as others previously proposed, this work shows that a standard fully convolutional network (FCN) can achieve remarkably fast and accurate segmentations, provided that it is trained on a rich enough example set.
      - use special image segmentations to enable robust face swapping under unprecedented conditions.
-     - measure the effect of intra- and inter-subject face swapping on recognition.
+     - measure the effect of intra- and inter-subject face swapping on recognition. Generally speaking, intra-subject swapped faces remain as recognizable as their sources, while better face swapping produces less recognizable inter-subject results.
     
 ### [FSGAN](#Nirkin)
 
