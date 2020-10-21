@@ -26,8 +26,9 @@ List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
 
      *Yuval Nirkin, Iacopo Masi, Anh Tran Tuan, Tal Hassner, and Gerard Medioni.*
      
-     Instead of tailoring systems for face segmentation, as others previously proposed, this work shows that a standard fully convolutional network (FCN) can achieve remarkably fast and accurate segmentations, provided that it is trained on a rich enough example set.
-    
+     - Instead of tailoring systems for face segmentation, as others previously proposed, this work shows that a standard fully convolutional network (FCN) can achieve remarkably fast and accurate segmentations, provided that it is trained on a rich enough example set.
+     - use special image segmentations to enable robust face swapping under unprecedented conditions.
+     - measure the effect of intra- and inter-subject face swapping on recognition.
     
 ### [FSGAN](#Nirkin)
 
@@ -40,15 +41,3 @@ List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
 
     
     
-    
-### Graph Classification
-
-    
-1. **Unsupervised Inductive Graph-Level Representation Learning via Graph-Graph Proximity.** IJCAI 2019. [paper](https://arxiv.org/pdf/1904.01098.pdf)
-
-    *Yunsheng Bai, Hao Ding, Yang Qiao, Agustin Marinovic, Ken Gu, Ting Chen, Yizhou Sun, Wei Wang.*
-
-2. **Motif-matching based Subgraph-level Attentional Convolution Network for Graph Classification.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-PengH.4387.pdf)
-
-	*Hao Peng, Jianxin Li,  Qiran Gong, Yuanxing Ning, Senzhang Wang, Lifang He.*
-	
