@@ -4,7 +4,7 @@ List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
 
 ### [Deepfakes_faceswap](#deepfakes)
 
-- **FaceSwap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.** [[code]](https://github.com/deepfakes/faceswap) | [[forum]](https://forum.faceswap.dev/)
+- **Deepfake is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.** [[code]](https://github.com/deepfakes/faceswap) | [[forum]](https://forum.faceswap.dev/)
 
      
 ### [FaceSwap-MarekKowalski](#faceswap)
@@ -26,7 +26,7 @@ List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
 
      *Yuval Nirkin, Iacopo Masi, Anh Tran Tuan, Tal Hassner, and Gerard Medioni.*
      
-     待补充
+     Instead of tailoring systems for face segmentation, as others previously proposed, this work shows that a standard fully convolutional network (FCN) can achieve remarkably fast and accurate segmentations, provided that it is trained on a rich enough example set.
     
     
 ### [FSGAN](#Nirkin)
