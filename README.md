@@ -37,13 +37,21 @@ List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
      - use special image segmentations to enable robust face swapping under unprecedented conditions.
      - measure the effect of intra- and inter-subject face swapping on recognition. Generally speaking, intra-subject swapped faces remain as recognizable as their sources, while better face swapping produces less recognizable inter-subject results.
     
-### [FSGAN](#Nirkin)
+### [FSGAN](#FSGAN)
 
 - **FSGAN: Subject Agnostic Face Swapping and Reenactment.** *ICCV 2019* [[paper]](https://arxiv.org/pdf/1908.05932.pdf) | [[code]](https://github.com/YuvalNirkin/fsgan) |  [[homepage-Nirkin]](https://nirkin.com/fsgan/) | [[homepage-Hassner]](https://talhassner.github.io/home/publication/2019_ICCV_2)
 
      *Yuval Nirkin, Yosi Keller, Tal Hassner.*
      
      Unlike previous work, FSGAN is subject agnostic and can be applied to pairs of faces without requiring training on those faces.
+     
+### [IPGAN](#IPGAN)
+
+- **Towards Open-Set Identity Preserving Face Synthesis.** *CVPR 2018* [[paper]](https://jianminbao.github.io/IP-GAN/IP-GAN.pdf) | [[homepage]](https://jianminbao.github.io/)
+
+     *Jianmin Bao, Dong Chen, Fang Wen, Houqiang Li, and Gang Hua.*
+     
+     propose an Open-Set Identity Preserving Generative Adversarial Network framework for disentangling the identity and attributes of faces, synthesizing faces from the recombined identity and attributes.
 
 
     
