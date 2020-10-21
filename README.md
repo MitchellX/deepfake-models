@@ -29,7 +29,7 @@ List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
      
 ### [FaceSwap-Nirkin et al.](#Nirkin)
 
-- **On face segmentation, face swapping, and face perception..**  *F&G 2018* [[paper]](https://arxiv.org/pdf/1912.13457.pdf) | [[code]](https://github.com/YuvalNirkin/face_swap) [[homepage-Nirkin]](https://nirkin.com/face-swap-project/) | [[homepage-Hassner]](https://talhassner.github.io/home/publication/2019_ICCV_2)
+- **On face segmentation, face swapping, and face perception..**  *F&G 2018* [[paper]](https://arxiv.org/pdf/1912.13457.pdf) | [[code]](https://github.com/YuvalNirkin/face_swap) [[homepage]](https://nirkin.com/face-swap-project/)
 
      *Yuval Nirkin, Iacopo Masi, Anh Tran Tuan, Tal Hassner, and Gerard Medioni.*
      
@@ -39,9 +39,9 @@ List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
     
 ### [FSGAN](#Nirkin)
 
-- **On face segmentation, face swapping, and face perception..** *FG 2018* [[paper]](https://arxiv.org/pdf/1912.13457.pdf) | [[homepage]](https://lingzhili.com/)
+- **FSGAN: Subject Agnostic Face Swapping and Reenactment.** *ICCV 2019* [[paper]](https://arxiv.org/pdf/1908.05932.pdf) | [[code]](https://github.com/YuvalNirkin/fsgan) [[homepage-Nirkin]](https://nirkin.com/fsgan/) | [[homepage-Hassner]](https://talhassner.github.io/home/publication/2019_ICCV_2)
 
-     *Yuval Nirkin, Iacopo Masi, Anh Tran Tuan, Tal Hassner, and Gerard Medioni.*
+     *Yuval Nirkin, Yosi Keller, Tal Hassner.*
      
      待补充
 
