@@ -17,7 +17,9 @@ List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
 
      *Lingzhi Li, Jianmin Bao, Hao Yang, Dong Chen, Fang Wen.*
      
-     Faceshifter is able to generate high fidelity identity preserving face swap results and, in comparison to previous methods, deal with facial occlusions using a second synthesis stage consisting of a Heuristic Error Acknowledging Refinement Network (HEAR-Net). 
+     Faceshifter is a novel two-stage framework for high fidelity and occlusion aware face-swapping. It's able to generate high fidelity identity preserving face swap results and, in comparison to previous methods, deal with facial occlusions using a second synthesis stage consisting of a Heuristic Error Acknowledging Refinement Network (HEAR-Net). 
+     - in the first stage, generate the swapped face in high-fidelity by exploiting and integrating the target attributes thoroughly and adaptively.
+     - in the second stage, propose a novel Heuristic Error Acknowledging Refinement Network (HEAR-Net) to address the challenging facial occlusions.
      
      
 ### [Nirkin et al.](#Nirkin)
