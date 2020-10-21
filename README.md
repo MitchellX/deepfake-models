@@ -39,11 +39,11 @@ List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
     
 ### [FSGAN](#Nirkin)
 
-- **FSGAN: Subject Agnostic Face Swapping and Reenactment.** *ICCV 2019* [[paper]](https://arxiv.org/pdf/1908.05932.pdf) | [[code]](https://github.com/YuvalNirkin/fsgan) [[homepage-Nirkin]](https://nirkin.com/fsgan/) | [[homepage-Hassner]](https://talhassner.github.io/home/publication/2019_ICCV_2)
+- **FSGAN: Subject Agnostic Face Swapping and Reenactment.** *ICCV 2019* [[paper]](https://arxiv.org/pdf/1908.05932.pdf) | [[code]](https://github.com/YuvalNirkin/fsgan) |  [[homepage-Nirkin]](https://nirkin.com/fsgan/) | [[homepage-Hassner]](https://talhassner.github.io/home/publication/2019_ICCV_2)
 
      *Yuval Nirkin, Yosi Keller, Tal Hassner.*
      
-     待补充
+     Unlike previous work, FSGAN is subject agnostic and can be applied to pairs of faces without requiring training on those faces.
 
 
     
