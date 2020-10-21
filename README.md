@@ -27,9 +27,9 @@ List some popular deepfake models e.g. FaceSwap, FaceShifter, FSGAN, etc.
      - in the second stage, propose a novel Heuristic Error Acknowledging Refinement Network (HEAR-Net) to address the challenging facial occlusions.
      
      
-### [Nirkin et al.](#Nirkin)
+### [FaceSwap-Nirkin et al.](#Nirkin)
 
-- **On face segmentation, face swapping, and face perception..**  *F&G 2018* [[paper]](https://arxiv.org/pdf/1912.13457.pdf) | [[homepage]](https://lingzhili.com/)
+- **On face segmentation, face swapping, and face perception..**  *F&G 2018* [[paper]](https://arxiv.org/pdf/1912.13457.pdf) | [[code]](https://github.com/YuvalNirkin/face_swap) [[homepage-Nirkin]](https://nirkin.com/face-swap-project/) | [[homepage-Hassner]](https://talhassner.github.io/home/publication/2019_ICCV_2)
 
      *Yuval Nirkin, Iacopo Masi, Anh Tran Tuan, Tal Hassner, and Gerard Medioni.*
      
