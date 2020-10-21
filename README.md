@@ -13,7 +13,7 @@ List some popular deepfake models e.g. DeepFake, FaceSwap, IPGAN, FaceShifter, N
 
 - **FaceSwap is an app that have originally created as an exercise for students in "Mathematics in Multimedia".**  [[code]](https://github.com/MarekKowalski/FaceSwap) | [[homepage]](http://home.elka.pw.edu.pl/~mkowals6/doku.php)
 
-    It uses face alignment, Gauss Newton optimization and image blending to swap the face of a person seen by the camera with a face of a person in a provided image.
+    It uses face alignment, Gauss-Newton optimization, and image blending to swap the face of a person seen by the camera with a face of a person in a provided image.
 
 
        
@@ -47,9 +47,9 @@ List some popular deepfake models e.g. DeepFake, FaceSwap, IPGAN, FaceShifter, N
 
      *Yuval Nirkin, Iacopo Masi, Anh Tran Tuan, Tal Hassner, and Gerard Medioni.*
      
-     - Instead of tailoring systems for face segmentation, as others previously proposed, this work shows that a standard fully convolutional network (FCN) can achieve remarkably fast and accurate segmentations, provided that it is trained on a rich enough example set.
-     - use special image segmentations to enable robust face swapping under unprecedented conditions.
-     - measure the effect of intra- and inter-subject face swapping on recognition. Generally speaking, intra-subject swapped faces remain as recognizable as their sources, while better face swapping produces less recognizable inter-subject results.
+     - Instead of tailoring systems for face segmentation, as others previously proposed, this work shows that a standard fully convolutional network (FCN) can achieve remarkably fast and accurate segmentation, provided that it is trained on a rich enough example set.
+     - use special image segmentation to enable robust face-swapping under unprecedented conditions.
+     - measure the effect of intra- and inter-subject face swapping on recognition. Generally speaking, intra-subject swapped faces remain as recognizable as their sources, while better face-swapping produces less recognizable inter-subject results.
     
 ### [FSGAN](#FSGAN)
 
