@@ -49,6 +49,7 @@ List some popular deepfake models e.g. DeepFake, FaceSwap, IPGAN, FaceShifter, N
      
      - Instead of tailoring systems for face segmentation, as others previously proposed, this work shows that a standard fully convolutional network (FCN) can achieve remarkably fast and accurate segmentation, provided that it is trained on a rich enough example set.
      - use special image segmentation to enable robust face-swapping under unprecedented conditions.
+     - fit 3D face shapes
      - measure the effect of intra- and inter-subject face swapping on recognition. Generally speaking, intra-subject swapped faces remain as recognizable as their sources, while better face-swapping produces less recognizable inter-subject results.
     
 ### [FSGAN](#FSGAN)
