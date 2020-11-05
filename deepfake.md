@@ -34,7 +34,7 @@ First of all, copy the `alignments.fsa` file in the src folder into you train fo
     cp
 
 ## train
-    python faceswap.py train -A ../tran/abe/ -B ../tran/con/ -m ../models/abe_con_model/
+    python faceswap.py train -A ../tran/con/ -B ../tran/abe/ -m ../models/abe_con_model/
 
 ## convert
-    python faceswap.py convert -i ../face/abe/ -o ../converted/abe_converted/ -m ../models/abe_con_model/
+    python faceswap.py convert -i ../face/con/ -o ../converted/abe_converted/ -m ../models/con_abe_model/
