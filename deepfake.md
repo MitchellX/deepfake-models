@@ -25,6 +25,8 @@ First of all, copy the `alignments.fsa` file in the src folder into you train fo
     
 # my own command
 
+### src文件夹用来视频拆帧成图片，face/abe可以放源图片, face/con/放目标图片，都extract到train文件夹里面(同时记得要吧alignment.fsa复制到train下面)。converted 是用来放换脸之后的图片
+
 ### we can extract faces from different sources of videos or images 
 therefore, we can merge the different sources of images of the specific person togather.
     
