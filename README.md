@@ -4,7 +4,7 @@ List some popular deepfake models e.g. DeepFake, FaceSwap, IPGAN, FaceShifter, N
 <br><br>
 
 
-### [Deepfakes_faceswap](#deepfakes)
+### [Deepfakes_faceswap](https://github.com/MitchellX/deepfake-models/blob/main/deepfake.md)
 
 - **Deepfake is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.**  [[code]](https://github.com/deepfakes/faceswap) | [[forum]](https://forum.faceswap.dev/)
 
@@ -41,7 +41,7 @@ List some popular deepfake models e.g. DeepFake, FaceSwap, IPGAN, FaceShifter, N
 
      
      
-### [FaceSwap-Nirkin et al.](#Nirkin)
+### [FaceSwap-Nirkin et al.](https://github.com/MitchellX/deepfake-models/blob/main/faceswapNirkin.md)
 
 - **On face segmentation, face swapping, and face perception..**  *F&G 2018* [[paper]](https://arxiv.org/pdf/1704.06729.pdf) | [[code]](https://github.com/YuvalNirkin/face_swap) [[homepage]](https://nirkin.com/face-swap-project/)
 
@@ -52,7 +52,7 @@ List some popular deepfake models e.g. DeepFake, FaceSwap, IPGAN, FaceShifter, N
      - fit 3D face shapes
      - measure the effect of intra- and inter-subject face swapping on recognition. Generally speaking, intra-subject swapped faces remain as recognizable as their sources, while better face-swapping produces less recognizable inter-subject results.
     
-### [FSGAN](#FSGAN)
+### [FSGAN](https://github.com/MitchellX/deepfake-models/blob/main/FSGAN.md)
 
 - **FSGAN: Subject Agnostic Face Swapping and Reenactment.** *ICCV 2019* [[paper]](https://arxiv.org/pdf/1908.05932.pdf) | [[code]](https://github.com/YuvalNirkin/fsgan) |  [[homepage-Nirkin]](https://nirkin.com/fsgan/) | [[homepage-Hassner]](https://talhassner.github.io/home/publication/2019_ICCV_2)
 
