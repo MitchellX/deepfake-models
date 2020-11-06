@@ -25,3 +25,6 @@ Images to Images Face Swapping
 
     cd fsgan/inference/face_swap_images2images.py
     python face_swap_images2images.py <source images directory> -t <target images directory> -o <output directory>
+
+
+    CUDA_VISIBLE_DEVICES=0 python face_swap_images2images.py ~/image/969/ -t ~/image/822/ -o ~/image/converted/
