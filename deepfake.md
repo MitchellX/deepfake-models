@@ -34,8 +34,11 @@ therefore, we can merge the different sources of images of the specific person t
 ## extract
     python faceswap.py extract -i ../face/abe/ -o ../tran/abe
     python faceswap.py extract -i ../face/con/ -o ../tran/con
-    cp
-    cp
+    
+First of all, copy the `alignments.fsa` file in the `face folder` into you `train folder`. Or you'll get error
+    
+    cp ../face/abe/alignments.fsa ../tran/abe/
+    cp ../face/con/alignments.fsa ../tran/con/
 
 ## train
     python faceswap.py train -A ../tran/con/ -B ../tran/abe/ -m ../models/abe_con_model/
