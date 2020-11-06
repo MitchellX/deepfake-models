@@ -28,6 +28,7 @@ Images to Images Face Swapping
 
 
 **!import** the image version #must be **.jpg**
+
 If you use `.png` version, you'll get the error `RuntimeError: No faces were detected in the source image directory` 
 
     CUDA_VISIBLE_DEVICES=0 python face_swap_images2images.py ~/image/src/ -t ~/image/target/ -o ~/image/converted/
