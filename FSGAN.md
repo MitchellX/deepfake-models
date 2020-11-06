@@ -1,3 +1,4 @@
+# v2 (master branch)
 ## swap video face
 
     cd deepfake_models/fsgan/
@@ -8,6 +9,7 @@
 
 <br><br><br>
 
+# v1 version (v1 branch)
 ## swap single(or still) image to image
 currently, there is no interfaces for image2image face swaping. So please swith `master(v2)` version into `v1` version by fellow the instructions below:
 
