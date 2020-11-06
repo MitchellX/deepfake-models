@@ -28,3 +28,4 @@ Images to Images Face Swapping
 
 
     CUDA_VISIBLE_DEVICES=0 python face_swap_images2images.py ~/image/969/ -t ~/image/822/ -o ~/image/converted/
+    CUDA_VISIBLE_DEVICES=0 python face_swap_images2images.py ~/image/src/ -t ~/image/target/ -o ~/image/converted/
