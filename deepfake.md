@@ -25,8 +25,12 @@ First of all, copy the `alignments.fsa` file in the src folder into you train fo
     
 # my own command
 
-### extract faces from videos
+### we can extract faces from different sources of videos or images 
+therefore, we can merge the different sources of images of the specific person togather.
+    
+    python faceswap.py extract -i ../src/abe/ -o ../face/abe
 
+    
 ## extract
     python faceswap.py extract -i ../face/abe/ -o ../tran/abe
     python faceswap.py extract -i ../face/con/ -o ../tran/con
