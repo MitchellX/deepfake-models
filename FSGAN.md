@@ -23,7 +23,6 @@ then download the weights for `v1` version.
     
 Images to Images Face Swapping
 
-    cd fsgan/inference/face_swap_images2images.py
     python face_swap_images2images.py <source images directory> -t <target images directory> -o <output directory>
 
 
