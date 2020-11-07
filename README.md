@@ -1,5 +1,6 @@
 # deepfake-models
-List some popular deepfake models e.g. DeepFake, FaceSwap, IPGAN, FaceShifter, Nirkin et al, FSGAN, etc.
+List some popular DeepFake models e.g. DeepFake, FaceSwap-MarekKowal, IPGAN, FaceShifter, FaceSwap-Nirkin, FSGAN, etc.
+
 
 <br><br>
 
