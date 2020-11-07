@@ -1,6 +1,8 @@
 # deepfake-models
 List some popular DeepFake models e.g. DeepFake, FaceSwap-MarekKowal, IPGAN, FaceShifter, FaceSwap-Nirkin, FSGAN, etc.
 
+In order to protect the authors' intellectual property rights, I will not upload their codes and model parameters. If necessary, please click the `code` link switching to their GitHub page to download.
+
 ![](./image_results/faceswapping.png)  
 
 ### [Deepfakes_faceswap](https://github.com/MitchellX/deepfake-models/blob/main/deepfake.md)
