@@ -3,6 +3,7 @@
 
     cd deepfake_models/fsgan/
 --ec `mp4v` decide specific encoder, because you may counter errors when using the defaut encoder `avc1`
+
 --gpus 0 3 decide specific GPU
 
     python swap.py ~/videos/taylorSwift.mp4 -t ~/videos/jenniferLawrence.mp4 -o ~/videos/converted/ --finetune --finetune_save --seg_remove_mouth --gpus 0 -ec mp4v
