@@ -1,2 +1,1 @@
--i 
-python faceswap.py -i ./images -p ./celeba.txt
+    faceswap.py -i ./images -p ./celeba.txt -o tmp
