@@ -13,7 +13,7 @@ The "ours" column refers to our unpublished work. And here are some faceswapped 
 
 - **Deepfake is the most popular face swapping application on GitHub.**  [[code]](https://github.com/deepfakes/faceswap) | [[forum]](https://forum.faceswap.dev/)
     
-        However, it is a subject-aware model, which means you need train a unique model for a specific person. For example, you should trained a CageNet for Nicolas Cage and a SwiftNet for Taylor Swift separately, then swapped the faces between these two persons.
+    However, it is a subject-aware model, which means you need train a unique model for a specific person. For example, you should trained a CageNet for Nicolas Cage and a SwiftNet for Taylor Swift separately, then swapped the faces between these two persons.
     
     
     
