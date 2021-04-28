@@ -9,10 +9,10 @@ The "ours" column refers to our unpublished work. And here are some faceswapped 
 
 
 
-### [Deepfakes_faceswap](https://github.com/MitchellX/deepfake-models/blob/main/deepfake.md)
+### [Deepfakes](https://github.com/MitchellX/deepfake-models/blob/main/deepfake.md)
 
-- **Deepfake is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.**  [[code]](https://github.com/deepfakes/faceswap) | [[forum]](https://forum.faceswap.dev/)
-
+- **Deepfake is the most popular face swapping application on GitHub. However, it is a subject-aware model, which means you need train a unique model for a specific person. For example, you should trained a CageNet for Nicolas Cage and a SwiftNet for Taylor Swift separately, then swapped the faces between these two persons.**  [[code]](https://github.com/deepfakes/faceswap) | [[forum]](https://forum.faceswap.dev/)
+    
     
     
 
@@ -22,7 +22,7 @@ The "ours" column refers to our unpublished work. And here are some faceswapped 
 
      *Yuval Nirkin, Yosi Keller, Tal Hassner.*
      
-     Unlike previous work, FSGAN is subject agnostic and can be applied to pairs of faces without requiring training on those faces.
+     Unlike previous work, FSGAN is subject agnostic and can be applied to pairs of faces without requiring training on those faces. And they 
      
   
        
@@ -37,7 +37,15 @@ The "ours" column refers to our unpublished work. And here are some faceswapped 
      - in the first stage, generate the swapped face in high-fidelity by exploiting and integrating the target attributes thoroughly and adaptively.
      - in the second stage, propose a novel Heuristic Error Acknowledging Refinement Network (HEAR-Net) to address the challenging facial occlusions.
      
+
+
+### [simSwap](#simswap)
+
+- **SimSwap: An Efficient Framework For High Fidelity Face Swapping.**  *ACM MM 2020*  [[paper]](https://dl.acm.org/doi/10.1145/3394171.3413630) 
+
+     *Renwang Chen, Xuanhong Chen, Bingbing Ni1, and Yanhao Ge.*
      
+     Simswap propose the *Weak Feature Matching Loss* which efficiently helps their framework to preserve the facial attributes in an implicit way. experimental results show that they can preserve attributes better than previous state-of-the-art methods.
      
        
 
@@ -55,7 +63,7 @@ The "ours" column refers to our unpublished work. And here are some faceswapped 
 
 - **FaceSwap is an app that have originally created as an exercise for students in "Mathematics in Multimedia".**  [[code]](https://github.com/MarekKowalski/FaceSwap) | [[homepage]](http://home.elka.pw.edu.pl/~mkowals6/doku.php)
 
-    It uses face alignment, Gauss-Newton optimization, and image blending to swap the face of a person seen by the camera with a face of a person in a provided image.
+    This is a 3D-based method. It uses face alignment, 3D face template, Gauss-Newton optimization, and image blending to swap the face of a person seen by the camera with a face of a person in a provided image.
 
      
      
