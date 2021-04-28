@@ -11,7 +11,9 @@ The "ours" column refers to our unpublished work. And here are some faceswapped 
 
 ### [Deepfakes](https://github.com/MitchellX/deepfake-models/blob/main/deepfake.md)
 
-- **Deepfake is the most popular face swapping application on GitHub. However, it is a subject-aware model, which means you need train a unique model for a specific person. For example, you should trained a CageNet for Nicolas Cage and a SwiftNet for Taylor Swift separately, then swapped the faces between these two persons.**  [[code]](https://github.com/deepfakes/faceswap) | [[forum]](https://forum.faceswap.dev/)
+- **Deepfake is the most popular face swapping application on GitHub.**  [[code]](https://github.com/deepfakes/faceswap) | [[forum]](https://forum.faceswap.dev/)
+    
+        However, it is a subject-aware model, which means you need train a unique model for a specific person. For example, you should trained a CageNet for Nicolas Cage and a SwiftNet for Taylor Swift separately, then swapped the faces between these two persons.
     
     
     
@@ -22,7 +24,7 @@ The "ours" column refers to our unpublished work. And here are some faceswapped 
 
      *Yuval Nirkin, Yosi Keller, Tal Hassner.*
      
-     Unlike previous work, FSGAN is subject agnostic and can be applied to pairs of faces without requiring training on those faces. And they 
+     Unlike previous work, FSGAN is subject agnostic and can be applied to pairs of faces without requiring training on those faces. Besides, they introduced new loss functions for better performance.
      
   
        
@@ -45,7 +47,7 @@ The "ours" column refers to our unpublished work. And here are some faceswapped 
 
      *Renwang Chen, Xuanhong Chen, Bingbing Ni1, and Yanhao Ge.*
      
-     Simswap propose the *Weak Feature Matching Loss* which efficiently helps their framework to preserve the facial attributes in an implicit way. experimental results show that they can preserve attributes better than previous state-of-the-art methods.
+     Simswap propose the *Weak Feature Matching Loss* which efficiently helps their framework to preserve the facial attributes in an implicit way. Experimental results show that they can preserve attributes better than previous state-of-the-art methods.
      
        
 
