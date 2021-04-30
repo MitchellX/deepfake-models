@@ -1,5 +1,5 @@
 # deepfake-models
-List some popular DeepFake models e.g. DeepFake, FaceSwap-MarekKowal, IPGAN, FaceShifter, FaceSwap-Nirkin, FSGAN, etc.
+List some popular DeepFake models e.g. DeepFake, FaceSwap-MarekKowal, IPGAN, FaceShifter, FaceSwap-Nirkin, FSGAN, SimSwap etc.
 
 In order to protect the authors' intellectual property rights, I will **not** upload their codes, pre-trained models or anything else. If necessary, please click the `code` link switching to their GitHub page to download.
 
