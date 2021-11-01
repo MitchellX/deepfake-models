@@ -16,7 +16,7 @@ The "ours" column refers to our unpublished work. And here are some faceswapped 
     However, it is a subject-aware model, which means you need train a unique model for a specific person. For example, you should trained a CageNet for Nicolas Cage and a SwiftNet for Taylor Swift separately, then swapped the faces between these two persons.
     
     
-### [CihaNet]()
+### [CihaNet](#CihaNet)
 
 - **One-stage Context and Identity Hallucination Network.** *ACM MM 2021* [[paper]](https://dl.acm.org/doi/10.1145/3474085.3475257) 
 
@@ -28,7 +28,7 @@ The "ours" column refers to our unpublished work. And here are some faceswapped 
      
      
      
-### [FaceController]()
+### [FaceController](#FaceController)
 
 - **FaceController: Controllable Attribute Editing for Face in the Wild.** *AAAI 2021* [[paper]](https://arxiv.org/abs/2102.11464) 
 
