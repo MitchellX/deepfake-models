@@ -16,16 +16,24 @@ The "ours" column refers to our unpublished work. And here are some faceswapped 
     However, it is a subject-aware model, which means you need train a unique model for a specific person. For example, you should trained a CageNet for Nicolas Cage and a SwiftNet for Taylor Swift separately, then swapped the faces between these two persons.
     
     
+### [CihaNet]()
+
+- **One-stage Context and Identity Hallucination Network.** *ACM MM 2021* [[paper]](https://dl.acm.org/doi/10.1145/3474085.3475257) 
+
+     *Yinglu Liu, Mingcan Xiang, Hailin Shi, Tao Mei.*
+     
+     Unlike previous work, FSGAN is subject agnostic and can be applied to pairs of faces without requiring training on those faces. Besides, they introduced new loss functions for better performance.    
+     
+     
+     ### [SimSwap](#simswap)
+
+- **SimSwap: An Efficient Framework For High Fidelity Face Swapping.**  *ACM MM 2020*  [[paper]](https://dl.acm.org/doi/10.1145/3394171.3413630) 
+
+     *Renwang Chen, Xuanhong Chen, Bingbing Ni1, and Yanhao Ge.*
+     
+     Simswap propose the *Weak Feature Matching Loss* which efficiently helps their framework to preserve the facial attributes in an implicit way. Experimental results show that they can preserve attributes better than previous state-of-the-art methods.
     
-
-### [FSGAN](https://github.com/MitchellX/deepfake-models/blob/main/FSGAN.md)
-
-- **FSGAN: Subject Agnostic Face Swapping and Reenactment.** *ICCV 2019* [[paper]](https://arxiv.org/pdf/1908.05932.pdf) | [[code]](https://github.com/YuvalNirkin/fsgan) |  [[homepage-Nirkin]](https://nirkin.com/fsgan/) | [[homepage-Hassner]](https://talhassner.github.io/home/publication/2019_ICCV_2)
-
-     *Yuval Nirkin, Yosi Keller, Tal Hassner.*
-     
-     Unlike previous work, FSGAN is subject agnostic and can be applied to pairs of faces without requiring training on those faces. Besides, they introduced new loss functions for better performance.
-     
+    
   
        
      
@@ -41,13 +49,14 @@ The "ours" column refers to our unpublished work. And here are some faceswapped 
      
 
 
-### [simSwap](#simswap)
+### [FSGAN](https://github.com/MitchellX/deepfake-models/blob/main/FSGAN.md)
 
-- **SimSwap: An Efficient Framework For High Fidelity Face Swapping.**  *ACM MM 2020*  [[paper]](https://dl.acm.org/doi/10.1145/3394171.3413630) 
+- **FSGAN: Subject Agnostic Face Swapping and Reenactment.** *ICCV 2019* [[paper]](https://arxiv.org/pdf/1908.05932.pdf) | [[code]](https://github.com/YuvalNirkin/fsgan) |  [[homepage-Nirkin]](https://nirkin.com/fsgan/) | [[homepage-Hassner]](https://talhassner.github.io/home/publication/2019_ICCV_2)
 
-     *Renwang Chen, Xuanhong Chen, Bingbing Ni1, and Yanhao Ge.*
+     *Yuval Nirkin, Yosi Keller, Tal Hassner.*
      
-     Simswap propose the *Weak Feature Matching Loss* which efficiently helps their framework to preserve the facial attributes in an implicit way. Experimental results show that they can preserve attributes better than previous state-of-the-art methods.
+     Unlike previous work, FSGAN is subject agnostic and can be applied to pairs of faces without requiring training on those faces. Besides, they introduced new loss functions for better performance.
+     
      
        
 
