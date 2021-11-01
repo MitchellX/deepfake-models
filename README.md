@@ -28,7 +28,7 @@ The "ours" column refers to our unpublished work. And here are some faceswapped 
      
      
      
-### [CihaNet]()
+### [FaceController]()
 
 - **FaceController: Controllable Attribute Editing for Face in the Wild.** *AAAI 2021* [[paper]](https://arxiv.org/abs/2102.11464) 
 
