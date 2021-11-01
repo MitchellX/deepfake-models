@@ -22,10 +22,25 @@ The "ours" column refers to our unpublished work. And here are some faceswapped 
 
      *Yinglu Liu, Mingcan Xiang, Hailin Shi, Tao Mei.*
      
-     Unlike previous work, FSGAN is subject agnostic and can be applied to pairs of faces without requiring training on those faces. Besides, they introduced new loss functions for better performance.    
+     Propose a one-stage face swapping network, which can divide the id-areas and co-areas by hallucination maps and learn the corresponding features effectively. The network can be trained with large-scale unlabeled data, without annotation dependency.
      
      
-     ### [SimSwap](#simswap)
+     
+     
+     
+### [CihaNet]()
+
+- **FaceController: Controllable Attribute Editing for Face in the Wild.** *AAAI 2021* [[paper]](https://arxiv.org/abs/2102.11464) 
+
+     *Zhiliang Xu, Xiyu Yu, Zhibin Hong, Zhen Zhu, Junyu Han, Jingtuo Liu, Errui Ding, Xiang Bai.*
+     
+     decouple identity, expression, pose, and illumination using 3D priors; separate texture and colors by using region-wise style codes. All the information is embedded into adversarial learning by our identity-style normalization module. Disentanglement losses are proposed to enhance the generator to extract information independently from each attribute.
+     
+     
+     
+     
+     
+### [SimSwap](#simswap)
 
 - **SimSwap: An Efficient Framework For High Fidelity Face Swapping.**  *ACM MM 2020*  [[paper]](https://dl.acm.org/doi/10.1145/3394171.3413630) 
 
