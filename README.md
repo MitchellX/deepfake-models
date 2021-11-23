@@ -38,6 +38,13 @@ Here are some faceswapped [videos](https://mitchellx.github.io/#video) for CihaN
      
      
      
+### [FaceInpainter](#FaceInpainter)
+
+- **FaceInpainter High Fidelity Face Adaptation to Heterogeneous Domains.**  *CVPR 2021*  [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Li_FaceInpainter_High_Fidelity_Face_Adaptation_to_Heterogeneous_Domains_CVPR_2021_paper.html) 
+
+     *Jia Li, Zhaoyang Li, Jie Cao, Xingguang Song, Ran He.***
+     propose a novel two-stage framework named FaceInpainter to implement controllable Identity-Guided Face Inpainting (IGFI) under heterogeneous domains. Concretely, by explicitly disentangling foreground and background of the target face, the first stage focuses on adaptive face fitting to the fixed background via a Styled Face Inpainting Network (SFI-Net), with 3D priors and texture code of the target, as well as identity factor of the source face.
+     
      
      
 ### [SimSwap](#simswap)
