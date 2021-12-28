@@ -49,7 +49,7 @@ Here are some faceswapped [videos](https://mitchellx.github.io/#video) for CihaN
      
 ### [SimSwap](#simswap)
 
-- **SimSwap: An Efficient Framework For High Fidelity Face Swapping.**  *ACM MM 2020*  [[paper]](https://dl.acm.org/doi/10.1145/3394171.3413630) 
+- **SimSwap: An Efficient Framework For High Fidelity Face Swapping.**  *ACM MM 2020*  [[paper]](https://dl.acm.org/doi/10.1145/3394171.3413630) | [[code]](https://github.com/neuralchen/SimSwap)
 
      *Renwang Chen, Xuanhong Chen, Bingbing Ni1, and Yanhao Ge.*
      
